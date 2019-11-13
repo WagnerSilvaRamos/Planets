@@ -3,7 +3,7 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css');
 
 html {font-family: sans-serif;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;}
-body {margin: 0;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+body {margin: 0;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale; background-color: #333}
 canvas {display: block;}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section,summary {display: block}
 audio,progress,video {display: inline-block}
@@ -35,12 +35,10 @@ button,select {  text-transform: none}
 [type="reset"]::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner,
 button::-moz-focus-inner {border-style: none;padding: 0}
-
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring,
 button:-moz-focusring {outline: 1px dotted ButtonText}
-
 fieldset {border: 1px solid silver;margin: 0 2px;padding: 0.35em 0.625em 0.75em}
 legend {box-sizing: border-box;color: inherit;display: table;max-width: 100%;padding: 0;white-space: normal}
 textarea {overflow: auto}
@@ -48,10 +46,8 @@ textarea {overflow: auto}
 [type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button {height: auto}
 [type="search"] {-webkit-appearance: textfield;outline-offset: -2px;}
 [type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration {-webkit-appearance: none;}
-
 ::-webkit-input-placeholder {color: inherit;opacity: 0.54;}
 ::-webkit-file-upload-button {-webkit-appearance: button;font: inherit}
-
 html {font: 112.5%/1.45em georgia, serif;box-sizing: border-box;overflow-y: scroll}
 * {box-sizing: inherit;}
 *:before {box-sizing: inherit}
@@ -193,7 +189,7 @@ li.nav-item:hover {animation-name: slide;animation-duration: 2s;animation-timing
 
 footer {text-align: center;padding: 0 0 30px 0;width: 100%;clear: both}
 footer p {text-align: center;margin: 0 auto;font-family: Nasalization Rg, sans-serif;color: #ffffff;font-size: 1em}
-footer a {color: #ffffff;text-decoration: none}
+footer a {color: #ffffff;text-decoration: none;font-family: 'Xolonium', sans-serif}
 footer a:hover {transition: all 0.3s linear;color: cornflowerblue;text-decoration: none}
 
 .index {background: url(../images/bg-index.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
@@ -224,6 +220,8 @@ footer a:hover {transition: all 0.3s linear;color: cornflowerblue;text-decoratio
 .earth {background: url(../images/bg-earth.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
 .neptune {background: url(../images/bg-neptune.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
 .saturn {background: url(../images/bg-saturn.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
+.mercury {background: url(../images/bg-mercury.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
+.uranus {background: url(../images/bg-uranus.jpg) no-repeat center top;background-size: cover;height: 100vh;margin: 0;padding: 0}
 
 .not-found {background: url(../images/bg-not-found.jpg) no-repeat center top;background-size: cover;height: 100vh}
 .not-found h1 {font-family: Nasalization Rg, sans-serif;color: #ffffff;font-size: 4em}
