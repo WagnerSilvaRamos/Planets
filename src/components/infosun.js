@@ -137,7 +137,9 @@ It is composed of four distinct parts: the chromosphere, the transition region, 
 4,100 K. This part of the Sun is cool enough to allow the existence of simple molecules such as carbon monoxide and water, which can be detected via their absorption spectra.</p>
 <p>The chromosphere, transition region, and corona are much hotter than the surface of the Sun. The reason is not well understood, but evidence suggests that Alfvén
 waves may have enough energy to heat the corona.</p>
-Above the temperature minimum layer is a layer about 2,000 km thick, dominated by a spectrum of emission and absorption lines.80 It is called the chromosphere from the Greek root chroma, meaning color, because the chromosphere is visible as a colored flash at the beginning and end of total solar eclipses.77 The temperature of the chromosphere increases gradually with altitude, ranging up to around 20,000 K near the top.80 In the upper part of the chromosphere helium becomes partially ionized.87
+<p>Above the temperature minimum layer is a layer about 2,000 km thick, dominated by a spectrum of emission and absorption lines.80 It is called the chromosphere
+from the Greek root chroma, meaning color, because the chromosphere is visible as a colored flash at the beginning and end of total solar eclipses.77 The temperature
+of the chromosphere increases gradually with altitude, ranging up to around 20,000 K near the top.80 In the upper part of the chromosphere helium becomes partially ionized.</p>
 <p>Taken by Hinode's Solar Optical Telescope on 12 January 2007, this image of the Sun reveals the filamentary nature of the plasma connecting regions of different magnetic polarity.
 Above the chromosphere, in a thin (about 200 km) transition region, the temperature rises rapidly from around 20,000 K in the upper chromosphere to coronal temperatures closer
 to 1,000,000 K.88 The temperature increase is facilitated by the full ionization of helium in the transition region, which significantly reduces radiative cooling of the plasma.

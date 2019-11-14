@@ -44,8 +44,7 @@ terrestrial planets. As data from MESSENGER orbiter are processed, this knowledg
 discovered that scientists called "the spider".It was later named Apollodorus.</p>
 <p>Albedo features are areas of markedly different reflectivity, as seen by telescopic observation. Mercury has dorsa (also called "wrinkle-ridges"),
 Moon-like highlands, montes (mountains), planitiae (plains), rupes (escarpments), and valles (valleys).</p>
-<p>Names for features on Mercury come from a variety of sources. Names coming from people are limited to the deceased. Craters are named for artists, musicians,
-                                                                                                                                                 painters, and authors who have made outstanding or fundamental contributions to their field. Ridges, or dorsa, are named for scientists who have contributed to the study
+<p>Names for features on Mercury come from a variety of sources. Names coming from people are limited to the deceased. Craters are named for artists, musicians, painters, and authors who have made outstanding or fundamental contributions to their field. Ridges, or dorsa, are named for scientists who have contributed to the study
 of Mercury. Depressions or fossae are named for works of architecture. Montes are named for the word "hot" in a variety of languages. Plains or planitiae are named for Mercury
     in various languages. Escarpments or rupēs are named for ships of scientific expeditions. Valleys or valles are named for abandoned cities, towns, or settlements of antiquity.</p>
 <p>Mercury was heavily bombarded by comets and asteroids during and shortly following its formation 4.6 billion years ago, as well as during a possibly separate subsequent
