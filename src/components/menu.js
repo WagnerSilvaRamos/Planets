@@ -9,7 +9,7 @@ const Menu = () => {
     return(
         <div className="menu">
         <div className="container">
-        <nav className="navbar navbar-expand-lg">
+        <nav className="navbar navbar-expand-xl">
         <a className="navbar-brand" href="./">Infos Planet App</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"> <span className="navbar-toggler-icon"></span> </button>
     <div className="collapse navbar-collapse" id="collapsibleNavbar">
@@ -36,7 +36,7 @@ const Menu = () => {
     <AniLink swipe to="/earth" className="nav-link" activeStyle={{ textDecoration: "salmon double underline" }}  activeClassName="active">earth</AniLink>
         </li>
         <li className="nav-item"><img src={'./neptune.png'} alt="Neptun" />
-        <AniLink swipe to="/neptun" className="nav-link" activeStyle={{ textDecoration: "salmon double underline" }}  activeClassName="active"  >neptun</AniLink>
+        <AniLink swipe to="/neptun" className="nav-link" activeStyle={{ textDecoration: "salmon double underline" }}  activeClassName="active"  >neptune</AniLink>
         </li>
         <li className="nav-item"><img src={'./saturno.png'} alt="Saturn" />
         <AniLink swipe to="/saturn" className="nav-link" activeStyle={{ textDecoration: "salmon double underline" }}  activeClassName="active"  > Saturn</AniLink>
